@@ -1,8 +1,4 @@
 gfjsgfsjlcbjoadsfhadso
 fdsaghfjoadsgfjwqwqqqqqqqqqqqqqqqqq
 add a text
-<<<<<<< HEAD
-I truly want to fix
-=======
-I truly want to fix
->>>>>>> feature1
+master wana conflict
