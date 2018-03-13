@@ -1,4 +1,8 @@
 gfjsgfsjlcbjoadsfhadso
 fdsaghfjoadsgfjwqwqqqqqqqqqqqqqqqqq
 add a text
-master add
+<<<<<<< HEAD
+I truly want to fix
+=======
+I truly want to fix
+>>>>>>> feature1
