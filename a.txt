@@ -1,4 +1,9 @@
 gfjsgfsjlcbjoadsfhadso
 fdsaghfjoadsgfjwqwqqqqqqqqqqqqqqqqq
 add a text
+<<<<<<< HEAD
 master wana conflict
+=======
+confliction try
+feature wana conflict
+>>>>>>> feature1
